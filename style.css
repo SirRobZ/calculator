@@ -93,7 +93,7 @@ button:focus {
 }
 
 .clear {
-  background: rgb(255, 89, 23);
+  background: rgb(209, 61, 3);
   color: white;
 }
 
@@ -105,7 +105,7 @@ button:focus {
 .equal-sign {
   grid-column: -2;
   grid-row: 2/ span 4;
-  background: rgb(4, 129, 4);
+  background: rgb(243, 154, 20);
 }
 
 /* Media Query: Large smartphone (vertical) */
